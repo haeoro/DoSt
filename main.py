@@ -1,5 +1,5 @@
 # # Created in Python | 5/02/2024 | Denial of Service Tool | Supports TCP, ICMP at given date.
-# Created by datarec
+# written by haeoro 
 
 from scapy.all import *
 from scapy.layers.inet import TCP, IP, ICMP
