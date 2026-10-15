@@ -30,7 +30,7 @@ def cli_version():
 def main():
     subprocess.run(["cls"], shell=True)
     method_options = input('''
- Denial of Service tool | made by datarec
+ Denial of Service tool | made by haeoro
  
  1) GUI Version 
  2) CLI Version 
